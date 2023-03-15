@@ -17,6 +17,7 @@
             </el-row>
 		</section>
 		<tendency :sevenDate='sevenDate' :sevenDay='sevenDay'></tendency>
+		<!-- 这是一行不知道要写啥的注释 -->
     </div>
 </template>
 
